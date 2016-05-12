@@ -3,7 +3,7 @@
 
 # 2016-05-12
 * greenDao实体类添加自有方法与其他高级使用指南:[http://www.w2bc.com/Article/63079](http://www.w2bc.com/Article/63079)
-    schema.enableKeepSectionsByDefault();
+    `schema.enableKeepSectionsByDefault();`
 
 
   
