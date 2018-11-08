@@ -1,3 +1,6 @@
+# 2018-11-08
+* float textBaseY = circleRecf.centerY()+(Math.abs(mPaint.ascent())-mPaint.descent())/2;  
+
 # 2016-05-26
 * 收集Android Crash日志时保留行号:[http://bbs.umeng.com/thread-7454-1-1.html](http://bbs.umeng.com/thread-7454-1-1.html) 
     `-keepattributes SourceFile,LineNumberTable` 
