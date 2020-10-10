@@ -1,3 +1,6 @@
+# 2020-10-10
+* [flutter快速启动普通项目模板](https://github.com/xuexiangjys/flutter_template)
+
 # 2019-05-15
 * [前端博客集锦](https://github.com/FrankFang/best-chinese-front-end-blogs)
 
